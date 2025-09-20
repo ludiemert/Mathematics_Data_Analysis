@@ -1,14 +1,9 @@
-# Mathematics_Data_Analysis
-Data analysis with Python, exploring essential mathematical concepts.
-
-# 📊 Mathematics for Data Analysis  
+# 📊 Mathematics for Data Analysis   => Data analysis with Python, exploring essential mathematical concepts.
 
 ---
 
-## 🇬🇧 English (A2 Level)  
-
-I studied this course to learn the **math for data analysis with Python**.  
-Here I write what I learned step by step.  
+#### I studied this course to learn the **math for data analysis with Python**.  
+##### Here I write what I learned step by step.  
 
 ---
 
