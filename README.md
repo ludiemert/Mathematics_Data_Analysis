@@ -1,4 +1,5 @@
-# 📊 Mathematics for Data Analysis   => Data analysis with Python, exploring essential mathematical concepts.
+# 📊 Mathematics for Data Analysis
+#### => Data analysis with Python, exploring essential mathematical concepts.
 
 ---
 
@@ -77,18 +78,18 @@ Here are some images showing the layout of the application:
 
 ________________________________________
 
-<h4 align="center">Advanced Data Visualization with Seaborn 🥰 🚀</h4>
+<h4 align="center">Advanced Mathematics_Data_Analysis 🥰 🚀</h4>
 
 <div align="center">
     <table>
         <tr>
             <td style="width: 50%; text-align: center;">
-                <img src="4_Advanced_Data_Visualization_Seaborn_img/2_curva_ estatística.png" style="width: 90%;" alt="Curva_ estatística">
-                <p style="margin-top: 5px;">Curva_ estatística</p>
+                <img src="6_Mathematics_Data_Analysis_img/2_What_is_a_function.png" style="width: 90%;" alt="What_is_a_function">
+                <p style="margin-top: 5px;">What_is_a_function</p>
             </td>
             <td style="width: 50%; text-align: center;">
-                <img src="4_Advanced_Data_Visualization_Seaborn_img/4_grafico_distribuicao_conjunta.png" style="width: 90%;" alt="Grafico_distribuicao_conjunta">
-                <p style="margin-top: 5px;">Grafico_distribuicao_conjunta</p>
+                <img src="6_Mathematics_Data_Analysis_img/4_XandY_function_ex.png" style="width: 90%;" alt="XandY_function_ex">
+                <p style="margin-top: 5px;">XandY_function_ex</p>
             </td>
         </tr>
     </table>
@@ -104,12 +105,12 @@ ________________________________________
     <table>
         <tr>
              <td style="width: 50%; text-align: center;">
-                <img src="4_Advanced_Data_Visualization_Seaborn_img/6_grafic_regressao.png" style="width: 90%;" alt="Grafic_regressao">
-                <p style="margin-top: 5px;">Grafic_regressao</p>
+                <img src="6_Mathematics_Data_Analysis_img/5_funcoes_classicas.png" style="width: 90%;" alt="funcoes_classicas">
+                <p style="margin-top: 5px;">funcoes_classicas</p>
             </td>
             <td style="width: 50%; text-align: center;">
-                <img src="4_Advanced_Data_Visualization_Seaborn_img/8_grafico_variaveis_numericas.png" style="width: 90%;" alt="Grafico_variaveis_numericas">
-                <p style="margin-top: 5px;">Grafico_variaveis_numericas</p>
+                <img src="6_Mathematics_Data_Analysis_img/7_limite_function.png" style="width: 90%;" alt="limite_function">
+                <p style="margin-top: 5px;">limite_function</p>
             </td>
         </tr>
     </table>
@@ -122,18 +123,18 @@ ________________________________________
   ________________________________________
 
   
-<h4 align="center">Advanced Data Visualization with Seaborn 🥰 🚀</h4>
+<h4 align="center">Advanced Mathematics_Data_Analysis 🥰 🚀</h4>
 
 <div align="center">
     <table>
         <tr>
             <td style="width: 50%; text-align: center;">
-                <img src="4_Advanced_Data_Visualization_Seaborn_img/9_Paleta_collor.png" style="width: 90%;" alt="Paleta_collor">
-                <p style="margin-top: 5px;">Paleta_collor</p>
+                <img src="6_Mathematics_Data_Analysis_img/8_conceit_Limites_Calc.png" style="width: 90%;" alt="conceit_Limites_Calc">
+                <p style="margin-top: 5px;">conceit_Limites_Calc</p>
             </td>
             <td style="width: 50%; text-align: center;">
-                <img src="4_Advanced_Data_Visualization_Seaborn_img/13_data_horizontal_boxplot.png" style="width: 90%;" alt="Data_horizontal_boxplot">
-                <p style="margin-top: 5px;">Data_horizontal_boxplot</p>
+                <img src="6_Mathematics_Data_Analysis_img/12_Taxa_Variacao.png" style="width: 90%;" alt="Taxa_Variacao">
+                <p style="margin-top: 5px;">Taxa_Variacaot</p>
             </td>
         </tr>
     </table>
@@ -149,12 +150,12 @@ ________________________________________
     <table>
         <tr>
              <td style="width: 50%; text-align: center;">
-                <img src="4_Advanced_Data_Visualization_Seaborn_img/14_other_grafic_boxplot.png" style="width: 90%;" alt="Other_grafic_boxplot">
-                <p style="margin-top: 5px;">Other_grafic_boxplot</p>
+                <img src="6_Mathematics_Data_Analysis_img/13_Funcao_Derivada.png" style="width: 90%;" alt="Funcao_Derivada">
+                <p style="margin-top: 5px;">Funcao_Derivada</p>
             </td>
             <td style="width: 50%; text-align: center;">
-                <img src="4_Advanced_Data_Visualization_Seaborn_img/16_grafic_violinplot.png" style="width: 90%;" alt="Grafic_violinplot">
-                <p style="margin-top: 5px;">Grafic_violinplot</p>
+                <img src="6_Mathematics_Data_Analysis_img/14_Exe_Derivadas.png" style="width: 90%;" alt="Exe_Derivadas">
+                <p style="margin-top: 5px;">Exe_Derivadas</p>
             </td>
         </tr>
     </table>
@@ -166,18 +167,18 @@ ________________________________________
 
   ________________________________________
 
-<h4 align="center">Advanced Data Visualization with Seaborn 🥰 🚀</h4>
+<h4 align="center">Advanced Mathematics_Data_Analysis 🥰 🚀</h4>
 
 <div align="center">
     <table>
         <tr>
             <td style="width: 50%; text-align: center;">
-                <img src="4_Advanced_Data_Visualization_Seaborn_img/24_pivot_method.png" style="width: 90%;" alt="Pivot_method">
-                <p style="margin-top: 5px;">Pivot_method</p>
+                <img src="6_Mathematics_Data_Analysis_img/17_1_Funcao_Derivada.png" style="width: 90%;" alt="Funcao_Derivada">
+                <p style="margin-top: 5px;">Funcao_Derivada</p>
             </td>
             <td style="width: 50%; text-align: center;">
-                <img src="4_Advanced_Data_Visualization_Seaborn_img/25_grafic_map_hot.png" style="width: 90%;" alt="Grafic_map_hot">
-                <p style="margin-top: 5px;">Grafic_map_hot</p>
+                <img src="6_Mathematics_Data_Analysis_img/17_2_Funcao_Derivada.png" style="width: 90%;" alt="Funcao_Derivada">
+                <p style="margin-top: 5px;">Funcao_Derivada</p>
             </td>
         </tr>
     </table>
@@ -193,12 +194,12 @@ ________________________________________
     <table>
         <tr>
              <td style="width: 50%; text-align: center;">
-                <img src="4_Advanced_Data_Visualization_Seaborn_img/26_figsize_map_hot.png" style="width: 90%;" alt="Figsize_map_hot">
-                <p style="margin-top: 5px;">Figsize_map_hot</p>
+                <img src="6_Mathematics_Data_Analysis_img/27_Better_Matrizes_for_understand_Linear_Algebra.png" style="width: 90%;" alt="Better_Matrizes_for_understand_Linear_Algebra">
+                <p style="margin-top: 5px;">Better_Matrizes_for_understand_Linear_Algebra</p>
             </td>
             <td style="width: 50%; text-align: center;">
-                <img src="4_Advanced_Data_Visualization_Seaborn_img/27_grafic_inf_number.png" style="width: 90%;" alt="Grafic_inf_number">
-                <p style="margin-top: 5px;">Grafic_inf_number</p>
+                <img src="6_Mathematics_Data_Analysis_img/29_Algoritmo_Classificacao_imagem_Matrizes.png" style="width: 90%;" alt="Algoritmo_Classificacao_imagem_Matrizes">
+                <p style="margin-top: 5px;">Algoritmo_Classificacao_imagem_Matrizes</p>
             </td>
         </tr>
     </table>
